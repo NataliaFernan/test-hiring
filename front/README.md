@@ -11,7 +11,8 @@ Um novo cliente contratou a EVOLNEX e pediu para que fosse feito um frontend par
 
 # Observações:
 
-- A aplicação pode ser feita usando qualquer framework de frontend, ou em JS vanilla
+- A aplicação deve ser feita utilizando ReactJs
+- O importante nesta parte do desafio é que saibamos como você lida com os componentes que formam as técnicas contemporâneas de desenvolvimento client-side, no que tange processamento de assets, transpilers, separação de responsabilidades, minificação, armazenamento local, etc. Por isso, estética não é primordial, no entanto pode contar pontos em sua avaliação.
 - A documentação para a API do github: https://docs.github.com/en/rest/reference
 
 # Procedimento para entrega do teste:
